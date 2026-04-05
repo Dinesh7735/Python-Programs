@@ -1,0 +1,1 @@
+print({val:val for val in range(1,6)})

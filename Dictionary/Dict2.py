@@ -1,0 +1,1 @@
+print({val:'abcd' for val in range(1,6)})
