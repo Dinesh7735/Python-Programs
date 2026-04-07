@@ -1,0 +1,1 @@
+print(list(map(lambda num : num**2,range(1,6))))

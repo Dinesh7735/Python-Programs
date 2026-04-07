@@ -1,0 +1,1 @@
+print(list(map(lambda n1,n2 : n1+n2,list(map(int,input().split())),list(map(int,input().split())))))

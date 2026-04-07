@@ -1,0 +1,1 @@
+print(list(map(float,['123','420','0','45678']))) #If we try to covert an empty string to float it will throw an error

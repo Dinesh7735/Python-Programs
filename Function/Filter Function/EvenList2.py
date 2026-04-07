@@ -1,0 +1,1 @@
+print(list(filter(lambda num : (num % 10) % 2 == 0,[1234,250,420,0,123])))
